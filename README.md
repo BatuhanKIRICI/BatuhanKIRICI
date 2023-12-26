@@ -55,10 +55,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
 </div>
 </td>
-<td valign="top" width="50%">
-
-
-
+</tr>
+</table> 
 
 
 <br>

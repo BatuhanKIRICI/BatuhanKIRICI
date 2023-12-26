@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
 </div>
 </td>
-<td valign="top" width="50%">
+<!-- 
+  <td valign="top" width="50%">
 <h3 align="center">BackEnd</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
@@ -85,6 +86,7 @@ Here are some ideas to get you started:
 </div>
 </td>
 </tr>
+  -->
 </table>  
 
 <br>

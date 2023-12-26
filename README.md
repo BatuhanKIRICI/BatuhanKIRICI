@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <p align="center">🌍 Hello World 👋😃 I'm Erdinç... </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Batuhan... </p>
 
 <table border="0" align="center">
   <tr border="0">
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
-⚖️     Faculty of Law's Student  <br> 
+💼     Business Management  <br> 
  <br>
-📫    erdincozdemir1812@gmail.com<br>
+📫    <a href="mailto: k.sukr48@gmail.com">Schedule Meeting!</a><br>
 <br>
-👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
+👥    <a href="https://www.linkedin.com/in/batuhan-kirici/">About Me!</a>  <br>
    </td>
   <td style="display: block; margin: 0 auto;
     padding: 0;">
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erdincozdemir/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="mailto: erdincozdemir1812@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="mailto: k.sukr48@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
 <br>
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
   
 <h3 align="center"> 📊 Contribution Stats </h3>  
 
-<img alt="Erdinc's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Batuhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
 
 <br>

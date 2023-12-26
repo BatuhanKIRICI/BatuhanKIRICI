@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erdincozdemir/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/batuhan-kirici/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="mailto: k.sukr48@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ErdincOzdemirr/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/BatuhanKIRICI/count.svg?"  />
 </div>
 <br>
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   
 <h3 align="center"> 📊 Contribution Stats </h3>  
 
-<img alt="Batuhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Batuhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BatuhanKIRICI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
 
 <br>

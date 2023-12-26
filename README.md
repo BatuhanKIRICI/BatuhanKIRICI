@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <p align="center">🌍 Hello World 👋😃 I'm Batuhan... </p>
+//# <p align="center">🌍 Hello World 👋😃 I'm Batuhan... </p>
 
 <table border="0" align="center">
   <tr border="0">

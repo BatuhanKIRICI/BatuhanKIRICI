@@ -51,7 +51,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" /> 
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
-  <h3 align="center">BackEnd</h3>   
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">BackEnd</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" /> 
@@ -80,11 +83,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://i.hizliresim.com/c8bwyis.png" alt="CI/CD" height="50" />
 </div>
-</div>
 </td>
 </tr>
-</table> 
-
+</table>  
 
 <br>
 <p align="center">

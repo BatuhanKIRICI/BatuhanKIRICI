@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />      
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" /> 
-<img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
+<img style="margin: 10px" src="https://i.hizliresim.com/4yexo9v.png" alt="TypeScript" height="50" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/ab416wk.png" alt="NextJs" height="50" />
 </div>
 </td>
 <!-- 

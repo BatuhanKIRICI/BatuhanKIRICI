@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">🌍 Hello World 👋😃 I'm Batuhan... </p>
+<h1 align="center">🌍 Hello World 👋😃 I'm Batuhan... </h1>
 
 <table border="0" align="center">
   <tr border="0">

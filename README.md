@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </td>
  </tr>
 </table>
-<p align="center">z
+<p align="center">
 <img > 
 <br>
   <h2 align="center"> My Skill Set </h2>  
